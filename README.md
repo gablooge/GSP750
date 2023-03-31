@@ -10,6 +10,7 @@ https://www.cloudskillsboost.google/focuses/15842?parent=catalog
 git clone https://github.com/gablooge/GSP750.git
 cd GSP750
 
-# TBC
+./1.sh
+
 
 ```
