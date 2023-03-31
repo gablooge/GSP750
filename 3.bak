@@ -20,7 +20,7 @@ resource "google_compute_instance" "vm_instance" {
   tags         = ["web", "dev"]
   boot_disk {
     initialize_params {
-      image = "debian-cloud/debian-11"
+      image = "cos-cloud/cos-stable"
     }
   }
   network_interface {
